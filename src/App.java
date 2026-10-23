@@ -22,6 +22,7 @@ public class App {
             System.out.println("Hävisit pelin.");
         }
         System.out.println("Push 1")
+        System.out.println("Push 2")
         
     }
 }
