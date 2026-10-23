@@ -23,6 +23,7 @@ public class App {
         }
         System.out.println("Push 1")
         System.out.println("Push 2")
+        System.out.println("Push 3")
         
     }
 }
